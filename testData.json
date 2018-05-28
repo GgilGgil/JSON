@@ -40,7 +40,8 @@
       "height":null,
       "desc":null,
       "thumbnailImg":null,
-      "shopAttrList":null
+      "shopAttrList":null,
+      "url":null
     },
     "curationVOList": null,
     "curationProductVOList": null,
@@ -112,7 +113,8 @@
       "height":null,
       "desc":null,
       "thumbnailImg":null,
-      "shopAttrList":null
+      "shopAttrList":null,
+      "url":null
     },
     "curationVOList": null,
     "curationProductVOList": null,
@@ -183,7 +185,8 @@
       "height":null,
       "desc":null,
       "thumbnailImg":null,
-      "shopAttrList":null
+      "shopAttrList":null,
+      "url":null
     },
     "curationVOList": null,
     "curationProductVOList": null,
@@ -256,7 +259,8 @@
         "height":null,
         "desc":null,
         "thumbnailImg":null,
-        "shopAttrList":null
+        "shopAttrList":null,
+        "url":null
       },
       {
         "id": null,
@@ -286,7 +290,8 @@
         "height":null,
         "desc":null,
         "thumbnailImg":null,
-        "shopAttrList":null
+        "shopAttrList":null,
+        "url":null
       },
       {
         "id": null,
@@ -316,7 +321,8 @@
         "height":null,
         "desc":null,
         "thumbnailImg":null,
-        "shopAttrList":null
+        "shopAttrList":null,
+        "url":null
       }
       ],
     "curationProductVOList": null,
@@ -389,7 +395,8 @@
         "height":null,
         "desc":"일번",
         "thumbnailImg":"http://d-img.picnique.co.kr/partner/20171129/hAYJMLa_1511938630.jpg",
-        "shopAttrList":["#일번", "#오늘", "#여름"]
+        "shopAttrList":["#일번", "#오늘", "#여름"],
+        "url":null
       },
       {
         "id": "shop2",
@@ -419,7 +426,8 @@
         "height":null,
         "desc":"이번이번",
         "thumbnailImg":"http://d-img.picnique.co.kr/partner/20171201/1LKmkmk_1512113670.jpg",
-        "shopAttrList":["#이번", "#남친룩", "#신상", "#대세"]
+        "shopAttrList":["#이번", "#남친룩", "#신상", "#대세"],
+        "url":null
       },
       {
         "id": "shop3",
@@ -449,7 +457,8 @@
         "height":null,
         "desc":"삼번삼번삼번",
         "thumbnailImg":"http://d-img.picnique.co.kr/partner/20171129/FEqoXPQ_1511938750.jpg",
-        "shopAttrList":["#삼번", "#훈남"]
+        "shopAttrList":["#삼번", "#훈남"],
+        "url":null
       },
       {
         "id": "shop4",
@@ -479,7 +488,8 @@
         "height":null,
         "desc":"사번사번사번사번",
         "thumbnailImg":"http://d-img.picnique.co.kr/partner/20171129/8UU6qjI_1511945277.jpg",
-        "shopAttrList":["#사번", "#핫딜", "#재입고", "#올여름핫아이템"]
+        "shopAttrList":["#사번", "#핫딜", "#재입고", "#올여름핫아이템"],
+        "url":null
       }
       ],
     "curationProductVOList": null,
