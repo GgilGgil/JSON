@@ -16,7 +16,7 @@
       "id": null,
       "curationEventId": null,
       "layoutsId": null,
-      "name": "더액션,
+      "name": "더액션",
       "title": "여자의 시선을 사로잡는 남자",
       "type": null,
       "importance": 0,
@@ -75,6 +75,6 @@
     "timeDealList": null,
     "eventInfo": null,
     "themaGridVOList": null
-  },
+  }
 
 ]
