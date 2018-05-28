@@ -47,7 +47,7 @@
 	    "http://d-img.picnique.co.kr/c24/theaction/23772/23772_1527161040_500_5.jpg",
 	    "http://d-img.picnique.co.kr/c24/theaction/23769/23769_1527161042_500_5.jpg",
 	    "http://d-img.picnique.co.kr/c24/theaction/23768/23768_1527161046_500_5.jpg"
-	]
+  	]
     },
     "curationVOList": null,
     "curationProductVOList": null,
@@ -76,5 +76,4 @@
     "eventInfo": null,
     "themaGridVOList": null
   }
-
 ]
