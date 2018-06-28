@@ -6,7 +6,7 @@
     "location": "START",
     "day": 1,
     "linkType": "APP",
-    "link": "url",
+    "link": "https://www.naver.com/",
     "content": "<p>테스트중입니다<p>"
   },
    {
@@ -16,7 +16,7 @@
     "location": "START",
     "day": 1,
     "linkType": "APP",
-    "link": "url",
+    "link": "https://www.google.com/",
     "content": "http://d-img.picnique.co.kr/c24/alnv91/398/398_1530163480_500_5.jpg"
   },
    {
@@ -26,7 +26,7 @@
     "location": "START",
     "day": 1,
     "linkType": "APP",
-    "link": "url",
+    "link": "https://www.daum.net/",
     "content": "http://d-img.picnique.co.kr/c24/alnv91/399/399_1530163479_500_5.jpg"
   }
 ]
