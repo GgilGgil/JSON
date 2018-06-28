@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "테스트1",
+    "type": "HTML",
+    "location": "START",
+    "day": 1,
+    "linkType": "APP",
+    "link": "url",
+    "content": "<p>테스트중입니다<p>"
+  },
+   {
+    "id": 2,
+    "title": "테스트2",
+    "type": "IMAGE",
+    "location": "START",
+    "day": 1,
+    "linkType": "APP",
+    "link": "url",
+    "content": "http://d-img.picnique.co.kr/c24/alnv91/398/398_1530163480_500_5.jpg"
+  },
+   {
+    "id": 1,
+    "title": "테스트3",
+    "type": "IMAGE",
+    "location": "START",
+    "day": 1,
+    "linkType": "APP",
+    "link": "url",
+    "content": "http://d-img.picnique.co.kr/c24/alnv91/399/399_1530163479_500_5.jpg"
+  }
+]
