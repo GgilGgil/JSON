@@ -1,0 +1,13 @@
+{
+	"서비스장애알림메시지":""
+	,"팝업공지URL":""
+	,"ios_min_version_code":100
+	,"android_min_version_code":100
+	,"ios_last_version_code":100
+	,"android_last_version_code":100
+	,"이용약관URL" : "https://s3.ap-northeast-2.amazonaws.com/fl-mobile/fl_terms.html"
+	,"개인정보취급방침URL":"https://s3.ap-northeast-2.amazonaws.com/fl-mobile/fl_privacy.html"
+	,"공지사항URL":"https://s3.ap-northeast-2.amazonaws.com/fl-mobile/index.html"
+	,"도움말URL":"https://s3.ap-northeast-2.amazonaws.com/fl-mobile/helper.html"
+	,"고객센터URL":"https://s3.ap-northeast-2.amazonaws.com/fl-mobile/cscenter.html"
+}
