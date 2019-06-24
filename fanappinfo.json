@@ -1,7 +1,7 @@
 {
-	"서비스장애알림메시지":"서버 점검 시간입니다.\n10:00 ~ 13:00"
+	"서비스장애알림메시지":""
 	,"팝업공지URL":""
-	,"ios_min_version_code":100
+	,"ios_min_version_code":3551
 	,"android_min_version_code":100
 	,"ios_last_version_code":100
 	,"android_last_version_code":100
