@@ -4,10 +4,10 @@
    "error":"",
    "message":"SUCESS",
    "trace":"",
-   "path":"/api/v1/lotto2222222222222",  
+   "path":"/api/v1/abc",  
    "contents" : {
      "User" : {
-        "name" : "오재웅", 
+        "name" : "아무개", 
         "age" : 28
      }
  }
