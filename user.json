@@ -1,0 +1,14 @@
+{ 
+   "timestamp":"2019-01-14 11:23:17",
+   "status":200,
+   "error":"",
+   "message":"SUCESS",
+   "trace":"",
+   "path":"/api/v1/lotto2222222222222",  
+   "contents" : {
+     "User" : {
+        "name" : "오재웅", 
+        "age" : 28
+     }
+ }
+}
